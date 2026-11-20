@@ -6,7 +6,7 @@ Notre mission est de fédérer les étudiants autour de la donnée et de l'Intel
 
 ## Architecture du Club
 Le club s'articule autour de six cellules complémentaires :
-- **Cellule Projet :** Conception et développement de solutions Data Science, Machine Learning et applications interactives.
+- **Cellule Projet :** Conception et développement de solutions de Data Science, de Machine Learning et d’applications interactives.
 - **Bureau de Conseil :** Cadrage technique, audit de code, accompagnement méthodologique et veille technologique.
 - **Cellule Formation :** Organisation d'ateliers pratiques, de bootcamps et partage de ressources pédagogiques.
 - **Cellule Sponsoring & Partenariat :** Développement des relations avec les entreprises, startups et partenaires institutionnels.
@@ -16,7 +16,7 @@ Le club s'articule autour de six cellules complémentaires :
 ## Ce que vous trouverez sur ce GitHub
 - **Projets Open-Source :** Applications web, modèles prédictifs et analyses de données réalisés par nos membres et lors des compétitions.
 - **Supports de Formation :** Notebooks, datasets et codes sources issus de nos ateliers techniques.
-- **Standards & Templates :** Notre dépôt modèle [`dsia-project-template`](https://github.com/DSIA-ENSA-Marrakech/dsia-project-template) maintenu par le Bureau de Conseil pour structurer chaque projet du club.
+- **Standards & Templates :** Notre dépôt modèle [`dsia-project-template`](https://github.com/DSIA-ENSA-Marrakech/dsia-project-template) structure chaque projet du club.
 
 ## Standards de Contribution
 1. Initialisez tout nouveau projet à partir du dépôt modèle `dsia-project-template`.
