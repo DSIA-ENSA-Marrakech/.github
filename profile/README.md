@@ -1,28 +1,65 @@
-# Club DSIA — ENSA Marrakech
+<div align="center">
 
-Bienvenue sur l'espace GitHub officiel du **Club Data Science & Intelligence Artificielle (DSIA)** de l'**École Nationale des Sciences Appliquées de Marrakech**. 
+<img src="https://github.com/DSIA-ENSA-Marrakech/.github/blob/main/profile/assets/banner.gif?raw=true" alt="Club DSIA — ENSA Marrakech | Explore. Engineer. Innovate." width="100%">
 
-Notre mission est de fédérer les étudiants autour de la donnée et de l'Intelligence Artificielle à travers la réalisation de projets techniques, la montée en compétences pratiques et l'ouverture sur l'écosystème professionnel.
+[Website](https://dsia-ensa-marrakech.pages.dev) · [LinkedIn](https://www.linkedin.com/company/dsia-ensa-marrakech/) · [Instagram](https://www.instagram.com/club_dsia/) · [Repositories](https://github.com/DSIA-ENSA-Marrakech?tab=repositories)
 
-## Architecture du Club
-Le club s'articule autour de six cellules complémentaires :
-- **Cellule Projet :** Conception et développement de solutions de Data Science, de Machine Learning et d’applications interactives.
-- **Bureau de Conseil :** Cadrage technique, audit de code, accompagnement méthodologique et veille technologique.
-- **Cellule Formation :** Organisation d'ateliers pratiques, de bootcamps et partage de ressources pédagogiques.
-- **Cellule Sponsoring & Partenariat :** Développement des relations avec les entreprises, startups et partenaires institutionnels.
-- **Cellule Logistique & Organisation :** Planification et gestion opérationnelle des événements, hackathons et conférences.
-- **Cellule Design & Communication :** Identité visuelle, création de contenu et rayonnement des activités du club.
+**English** · [Français](https://github.com/DSIA-ENSA-Marrakech/.github/blob/main/profile/README.fr.md)
 
-## Ce que vous trouverez sur ce GitHub
-- **Projets Open-Source :** Applications web, modèles prédictifs et analyses de données réalisés par nos membres et lors des compétitions.
-- **Supports de Formation :** Notebooks, datasets et codes sources issus de nos ateliers techniques.
-- **Standards & Templates :** Notre dépôt modèle [`dsia-project-template`](https://github.com/DSIA-ENSA-Marrakech/dsia-project-template) structure chaque projet du club.
+</div>
 
-## Standards de Contribution
-1. Initialisez tout nouveau projet à partir du dépôt modèle `dsia-project-template`.
-2. Travaillez sur une branche dédiée (`feature/nom-fonctionnalite`) et soumettez une *Pull Request* pour revue avant toute fusion sur `main`.
+<img src="https://github.com/DSIA-ENSA-Marrakech/.github/blob/main/profile/assets/mission.svg?raw=true" alt="01 — Mission" width="100%">
 
-## Contact
-- **Établissement :** ENSA Marrakech — Filière Data Science & Intelligence Artificielle (DSIA)
-- **Localisation :** Marrakech, Maroc
-- **Email :** club.dsia.ensam@gmail.com
+We are the Data Science & Artificial Intelligence student club at the National School of Applied Sciences (ENSA Marrakech), Morocco.
+
+Our mission is to bring students together around data and AI through hands-on engineering projects, technical learning and meaningful connections with academia and industry. We aim to turn ideas into solutions that can be tested, demonstrated and improved with feedback.
+
+| Build | Learn | Connect |
+| :--- | :--- | :--- |
+| Applied data science and AI projects | Workshops and shared technical resources | Collaboration with students, faculty and industry |
+
+<img src="https://github.com/DSIA-ENSA-Marrakech/.github/blob/main/profile/assets/organization.svg?raw=true" alt="02 — Organization" width="100%">
+
+Six complementary divisions support our activities:
+
+| Division | Focus |
+| :--- | :--- |
+| Project Division | Design and development of data science, machine learning and interactive applications. |
+| Technical Advisory Board | Technical scoping, code review, methodology and technology watch. |
+| Training Division | Practical workshops, bootcamps and learning resources. |
+| Sponsorship & Partnerships | Relationships with companies, startups and institutional partners. |
+| Logistics & Organization | Coordination of events, hackathons and conferences. |
+| Design & Communication | Visual identity, content and outreach. |
+
+<img src="https://github.com/DSIA-ENSA-Marrakech/.github/blob/main/profile/assets/projects.svg?raw=true" alt="03 — Projects and open source" width="100%">
+
+### Start here
+
+- [**DSIA Project Template**](https://github.com/DSIA-ENSA-Marrakech/dsia-project-template) — the official starting point for club projects.
+- [**Explore public repositories**](https://github.com/DSIA-ENSA-Marrakech?tab=repositories) — discover published code and resources.
+
+As projects are approved for publication, this space will highlight their problem statements, data, methods, evaluation, demos and results. We only showcase work that is ready to share.
+
+<img src="https://github.com/DSIA-ENSA-Marrakech/.github/blob/main/profile/assets/engineering.svg?raw=true" alt="04 — Engineering and contribution" width="100%">
+
+### Our contribution workflow
+
+`Problem & feasibility` → `Design & data` → `Implementation` → `Review & evaluation` → `Demo & feedback`
+
+For club projects, start from the official template, work on a dedicated branch and submit a pull request for review before merging into `main`. Document how to reproduce results, protect sensitive data and evaluate models against relevant baselines where applicable.
+
+[Contribution guidelines](https://github.com/DSIA-ENSA-Marrakech/.github/blob/main/CONTRIBUTING.md) · [Code of conduct](https://github.com/DSIA-ENSA-Marrakech/.github/blob/main/CODE_OF_CONDUCT.md) · [Security policy](https://github.com/DSIA-ENSA-Marrakech/.github/blob/main/SECURITY.md)
+
+**Technical focus:** Python · Data Analysis · Machine Learning · Statistics · AI · Software Engineering · Git
+
+<img src="https://github.com/DSIA-ENSA-Marrakech/.github/blob/main/profile/assets/collaboration.svg?raw=true" alt="05 — Collaboration and contact" width="100%">
+
+We welcome conversations with students, teachers, researchers and industry professionals interested in applied data science, AI and knowledge sharing.
+
+Connect with us through our [official website](https://dsia-ensa-marrakech.pages.dev) or [LinkedIn page](https://www.linkedin.com/company/dsia-ensa-marrakech/).
+
+<div align="center">
+
+<img src="https://github.com/DSIA-ENSA-Marrakech/.github/blob/main/profile/assets/footer.svg?raw=true" alt="Built by students. Driven by curiosity." width="100%">
+
+</div>
